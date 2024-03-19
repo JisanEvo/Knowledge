@@ -1,0 +1,41 @@
+[
+    {
+      "id": "001",
+      "title": "The Art of Culinary Creativity",
+      "cover_img": "https://i.ibb.co/TbTkwYB/cover.jpg",
+      "author": "Jennifer Lee",
+      "author-img": "https://imgur.com/m4WAGWJ",
+      "posted_date": "2024-03-19",
+      "reading_time": 11,
+      "hashtags": ["#CulinaryArts", "#Foodie", "#Creativity"]
+    },
+    {
+      "id": "002",
+      "title": "Unlocking Ancient Civilizations",
+      "cover_img": "https://i.ibb.co/TbTkwYB/cover.jpg",
+      "author": "Dr. Christopher Thompson",
+      "author-img": "https://imgur.com/m4WAGWJ",
+      "posted_date": "2024-03-18",
+      "reading_time": 14,
+      "hashtags": ["#Archaeology", "#History", "#Adventure"]
+    },
+    {
+      "id": "003",
+      "title": "Mastering Digital Photography",
+      "cover_img": "https://i.ibb.co/TbTkwYB/cover.jpg",
+      "author": "Alex Smith",
+      "author-img": "https://imgur.com/m4WAGWJ",
+      "posted_date": "2024-03-17",
+      "reading_time": 10,
+      "hashtags": ["#Photography", "#DigitalArt", "#BeginnersGuide"]
+    },
+    {
+      "id": "004",
+      "title": "The Science of Happiness",
+      "cover_img": "https://i.ibb.co/TbTkwYB/cover.jpg",
+      "author": "Dr. Emily Johnson",
+      "author-img": "https://imgur.com/m4WAGWJ",
+      "posted_date": "2024-03-16",
+      "reading_time": 8,
+      "hashtags": ["#Photography", "#DigitalArt", "#BeginnersGuide"]
+    }]
